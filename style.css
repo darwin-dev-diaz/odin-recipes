@@ -1,6 +1,32 @@
 /* style.css */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6b6b6b;
+    text-align: center;
+}
 
-.recipe-link{
-    color: blue;
-    background-color: aquamarine;
+h1, h2, h3 {
+    font-family: 'Snell Roundhand', cursive;
+}
+h1{
+    color: #555555;
+    font-size: 50px;
+    text-decoration: underline  ;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    text-align: left;
+}
+ul, ol, li{
+    text-align: left;
+}
+
+body {
+    font-family: 'Times New Roman', serif;
+}
+.recipe-link{ 
+    background-color: #ececec;
 }
